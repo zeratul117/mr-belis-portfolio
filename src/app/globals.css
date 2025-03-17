@@ -87,7 +87,6 @@ section.fade-out {
 */
 .area {
 	background: #213155;
-	background: -webkit-linear-gradient(to left, #8f94fb, #213155);
 	width: 100%;
 	height: 100vh;
 	position: absolute;
